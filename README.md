@@ -47,7 +47,7 @@
 			</tr>
 			<tr>
 				<td>FECHA DE PRESENTACIÓN:</td>
-				<td>29-Abr-2022</td>
+				<td>08-May-2022</td>
 				<td>HORA DE PRESENTACIÓN:</td>
 				<td> 11:55 pm.</td>
 			</tr>
@@ -71,11 +71,15 @@
 </table>
 </div>
 
-# Mi proyecto Git PROGRAMACIÓN WEB 2
+# Mi proyecto personal Estructura de datos y algoritmos
 ## Alumno: Mario Franco Chura Puma
 ## Laboratorio E
 
 ## Descripcion
+
+Trabajo a realizar:
+
+Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
 
 Pasos realizados en este proyecto:
 
