@@ -32,11 +32,11 @@
 		<tbody>
 			<tr>
 				<td><span style="font-weight:bold;">ASIGNATURA:</span></td>
-				<td colspan="5">Programación Web 2</td>
+				<td colspan="5">Estructura de datos y algoritmos</td>
 			</tr>
 			<tr>
 				<td><span style="font-weight:bold;">TÍTULO DE LA PRÁCTICA:<span></td>
-				<td colspan="5">Git - GitHub</td>
+				<td colspan="5">Revisión de elementos de programación (Parte I)</td>
 			</tr>
 			<tr>
 				<td>NÚMERO DE PRÁCTICA:</td>
